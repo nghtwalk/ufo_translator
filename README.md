@@ -1,4 +1,4 @@
-# 👽 UFO Translator 2.0 🚀
+# 👽 UFO Translator 🚀
 
 Um tradutor alienígena em Python que converte mensagens humanas em **dialetos intergalácticos**.  
 Projeto feito para praticar Python e se divertir com símbolos cósmicos. 🌌  
